@@ -6,13 +6,13 @@ const productos = [
         cantidad: 5,
         imagen: "https://acortar.link/perfume_de_ariana", // Ruta de la imagen local
     },
-    {
+    /*{
         nombre: "Vestido largo de Van Gogh",
         id: "vldvg",
         precio: 250.00,
         cantidad: 0,
         imagen: "https://acortar.link/vestido_de_van_gogh", // Ruta de la imagen local
-    },
+    },*/
     // Agregar más productos aquí
 ];
 
